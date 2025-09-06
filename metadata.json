@@ -1,0 +1,5 @@
+{
+  "name": "AI PDF Study Assistant",
+  "description": "An AI-powered web application that helps users learn from PDF files by generating summaries, creating study strategies, and generating quizzes.",
+  "requestFramePermissions": []
+}
